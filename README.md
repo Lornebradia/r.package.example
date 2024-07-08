@@ -1,6 +1,6 @@
 # r.package.example
 
 
-An example package for the workshop.
+Let's add a meaningless change to this file. 
 
 
