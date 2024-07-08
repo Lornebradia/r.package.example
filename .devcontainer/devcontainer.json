@@ -1,7 +1,7 @@
 {
 	// https://containers.dev/implementors/json_reference/
 	"name": "user-workshop-cicd image R-4.3 (RStudio) container",
-	"image": "ghcr.io/Lornebradia/r-pkg-example:4.3",
+	"image": "ghcr.io/Lornebradia/r.package.example:main",
 	// env variables
 	"containerEnv": {
 		"ROOT": "true",
